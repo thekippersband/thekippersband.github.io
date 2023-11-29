@@ -28,13 +28,3 @@ link{
 link{
 	color:black;
 }
-
-/* Keyword values */
-image-rendering: auto;
-image-rendering: crisp-edges;
-image-rendering: pixelated;
-
-/* Global values */
-image-rendering: inherit;
-image-rendering: initial;
-image-rendering: unset;
