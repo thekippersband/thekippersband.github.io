@@ -28,13 +28,13 @@ a:link {
   }
   
   a:hover {
-	color: red;
+	color: yellowgreen;
 	background-color: transparent;
 	text-decoration: underline;
   }
   
   a:active {
-	color: yellow;
+	color: rebeccapurple;
 	background-color: transparent;
 	text-decoration: underline;
   }
