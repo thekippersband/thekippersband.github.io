@@ -17,8 +17,8 @@ p {
 
 img{
 	border: 5px solid rosybrown;
-	height: fit-content;
-	width: fit-content;
+	height: auto;
+	width: 100%;
 }
 
 link{
